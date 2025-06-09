@@ -48,7 +48,7 @@ Open your browser and go to:
 
 ## 🌐 Live Demo
 
-> Deployed on Vercel: **\[blog-site.vercel.app]**
+> Deployed on Vercel: **\[hamza-blog-site.vercel.app](https://hamza-blog-site.vercel.app/)**
 
 ## ✅ Prerequisites
 
