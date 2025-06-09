@@ -178,7 +178,7 @@ const PostsTable = () => {
       <div className="overflow-auto flex-1">
         <Table className="border-separate">
           <TableHeader>
-            <TableRow>
+            <TableRow className="bg-muted">
               {TABLE_COLUMNS.map((column) => (
                 <TableHead key={column.id} className={`px-3 ${column.classes}`}>
                   {column.name}
