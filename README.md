@@ -13,7 +13,7 @@ cd blog-site
 
 ### 2. Install Dependencies
 
-Make sure you have **Node.js v18+** and **pnpm** (recommended) or **npm/yarn** installed.
+Make sure you have **Node.js v18+** and **pnpm** or **npm/yarn** installed.
 
 ```bash
 pnpm install
